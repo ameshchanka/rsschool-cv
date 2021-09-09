@@ -1,36 +1,39 @@
 # ALEH MESHCHANKA
 ![photo Aleh Meshchanka](/img/photo-cv-AlehMeshchanka.jpg "photo Aleh Meshchanka")
 
-##### Phone:     +375-29-530-34-45
-##### Email:     a.meshchanka.it@gmail.com
-##### Telegram:  Aleh Meshchanka	
-##### Linkedin:  goo.gl/F2U1oW
-
-
+#### Phone:     +375-29-530-34-45
+#### Email:     a.meshchanka.it@gmail.com
+#### Telegram:  Aleh Meshchanka	
+#### Linkedin:  goo.gl/F2U1oW
+ 
+ 
 > ### Objective
->
-> **JS developer**
->
 
+> **JS developer**
+ 
+ 
 > ### Skills
 >
 > **English Proficiency:**     Elementary
 > **I am familiar with:**
 > - **OS:**     Windows
 > - **Tools:**  Java core, Java EE (spring, hibernate), css, html, Jquery, Bootstrap, Javascript, Git
->
-
-
+ 
+ 
 > ### Education
 >
 > **January 2018 - March 2018** – Educational Center of HTP
-> Course:          Java Enterprise
-> Description:     Application development using RESTfull API, Apache Maven, Hibernate and Spring frameworks, Aspect Oriented Programming, Git
+
+> *Course:*          Java Enterprise
+
+> *Description:*     Application development using RESTfull API, Apache Maven, Hibernate and Spring frameworks, Aspect Oriented Programming, Git
 >
 > **September 2017 - December 2017** – Educational Center of HTP
+
 > Course:          Java Fundamentals
+
 > Description:     Learn the basics of Java and develop Web applications with it
->
+
 > **2002 - 2007** – Belarusian State University of Transport
 > Specialty:       Automation, telemechanics and communication on railway transport
 > Specialization:  Automation and Remote Control
