@@ -1,14 +1,14 @@
-#ALEH MESHCHANKA
+# ALEH MESHCHANKA
 
 
-###**Phone:**  +375-29-530-34-45
-###**Email:** a.meshchanka.it@gmail.com
-###**Telegram:** Aleh Meshchanka	
-###**Linkedin:** goo.gl/F2U1oW
+### **Phone:**  +375-29-530-34-45
+### **Email:** a.meshchanka.it@gmail.com
+### **Telegram:** Aleh Meshchanka	
+### **Linkedin:** goo.gl/F2U1oW
 
 
 
-##**Objective
+## **Objective
 
 Java Developer
 
