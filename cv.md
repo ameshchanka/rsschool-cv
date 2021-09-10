@@ -4,7 +4,7 @@
 ### Phone:     +375-29-530-34-45
 ### Email:     a.meshchanka.it@gmail.com
 ### Telegram:  Aleh Meshchanka	
-### Linkedin:  (Aleh Meshchanka)[https://goo.gl/F2U1oW]
+### Linkedin:  [Aleh Meshchanka](https://goo.gl/F2U1oW)
  
  
 > ### Objective
@@ -49,8 +49,8 @@
    
 > ### Additional Information
 >    
-> **Portfolio:**                  my educational projects (Course: Java Enterprise) https://goo.gl/654qMR     
-> **Professional interests:**     https://goo.gl/1gCspS, https://goo.gl/5L9pkE    
+> **Portfolio:**                  [my educational projects (Course: Java Enterprise)](https://goo.gl/654qMR)     
+> **Professional interests:**     [Begin-english](https://goo.gl/1gCspS), [ITc\|сообщество программистов](https://goo.gl/5L9pkE), [Automation and telemechanics devices](http://scbist.com/)    
 > **Military obligation status:** officer reserve (graduated from the military department at Belarusian State University of Transport)    
 >
 
