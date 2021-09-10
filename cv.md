@@ -1,5 +1,5 @@
 # ALEH MESHCHANKA
-![photo Aleh Meshchanka](https://github.com/ameshchanka/rsschool-cv/blob/gh-pages/img/photo-cv-AlehMeshchanka.jpg "photo Aleh Meshchanka")
+![photo Aleh Meshchanka](https://raw.githubusercontent.com/ameshchanka/rsschool-cv/gh-pages/img/photo-cv-AlehMeshchanka.jpg "photo Aleh Meshchanka")
 
 ### Phone:     +375-29-530-34-45
 ### Email:     a.meshchanka.it@gmail.com
