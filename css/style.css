@@ -135,13 +135,39 @@ a:hover, a:active{
 
 .section{
     position: relative;
-    margin-bottom: 30px;
+    margin-bottom: 24px;
 }
 /*Main end*/
+
+/*Footer start*/
+.footer{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
 .wrapper-footer{
     margin: 10px 0px;
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    align-items: center;
+    align-items:center;
+    justify-content: center;
+    
+}
+.footer-item{
+    position: relative;
+    margin-right: 30px;
+    align-items:center;
     justify-content: center;
 }
+.footer-course {
+    width: 70px;
+}
+.footer-course-link{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+}
+/*Footer end*/
