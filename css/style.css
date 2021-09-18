@@ -16,6 +16,14 @@
         url("../fonts/lato-italic.woff") format("woff");
 }
 
+:root {
+    --header-color-text: #d8d8d8;
+    --sections-h3-color: #d8d8d8;
+    --body-color-text: #2e2f30;
+    --section-h2-background-color: rgb(35, 49, 70);
+    --header_wrapper-background-color: rgb(35, 49, 70);
+}
+
 htlm{
     /* отвечает за модель расчета размера блока */
     /*padding - расчитывается во внутрь блока, */
@@ -32,76 +40,73 @@ body{
     font-size: 20px;
     line-height: 1.2;
     font-weight: normal;
-    color: #2e2f30;
+    color: var(--body-color-text);
 }
 
+/*Header start*/
 .wrapper{
     max-width: 1000px;
     margin: 0 auto;
-    /*background-color: rgb(197, 197, 197);*/
 }
 
 .header{
-    /*background-color: rgb(61, 61, 61);*/
-    color: #d8d8d8;
+    color: var(--header-color-text);
 }
 
 .header_wrapper{
-    /*max-width: 800px;*/
     margin: 0 auto;
     display: flex;
-    /*элементы не наезжают друг на друга*/
     flex-wrap: wrap;
-    /*вертикальное выравниваине*/
-    align-items: flex-start;
-    /*выровнять по краям контейнера наши элементы*/
+    align-items: center;
     justify-content:left;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: rgb(4, 42, 92);
+    background-color: var(--header_wrapper-background-color);
     
 }
 .header-title{
     max-width: 350px;
     font-weight: 200;
     font-size: 70px;
-    /*margin-bottom: 22px;*/
     /*межстрочный интервал*/
     line-height: 80px;
-    
-    /*background-color: rgb(197, 197, 197);*/
 }
 
 .header_photo{
     margin-left: 60px;;
     margin-right: 100px;;
 }
+/*Header end*/
 
+/*Main start*/
 .main{
     padding-top: 50px;
 }
 
 .main-wrapper{
     display: flex;
-    /*элементы не наезжают друг на друга*/
     flex-wrap: wrap;
-    /*вертикальное выравниваине*/
     align-items: flex-start;
     justify-content:left;
 }
+
 .bolt-text{
    font-weight: bold; 
 }
+
 .italic-text{
     font-style: italic; 
- }
+}
+
 .main-wrapper-aside{
     width: 360px;
 }
+
 a{
     text-decoration: none;
     color: inherit;
 }
+
 a:hover, a:active{
     opacity: .6;
 }
@@ -113,13 +118,17 @@ a:hover, a:active{
 .sections{
     max-width: 640px;    
 }
+
 .sections h3{
     font-weight: 100;
     font-size: 25px;
     margin-bottom: 10px;
     padding: 5px 10px;
-    background-color:mintcream;     /*ФОН Objective*/
+    color: var(--sections-h3-color);
+    opacity: 1;
+    background-color:var(--section-h2-background-color);
 }
+
 .sections ul{
     margin-left: 30px;
 }
@@ -128,13 +137,11 @@ a:hover, a:active{
     position: relative;
     margin-bottom: 30px;
 }
-
+/*Main end*/
 .wrapper-footer{
     margin: 10px 0px;
     display: flex;
-    /*элементы не наезжают друг на друга*/
     flex-wrap: wrap;
-    /*вертикальное выравниваине*/
     align-items: center;
     justify-content: center;
 }
